@@ -43,7 +43,7 @@ Consistent Layout: Ensuring that each page of your application follows a consist
 
 Nested Layouts: Allowing for sections of your application to have specific sub-layouts while still maintaining a global layout.
 `
-## summary of basic of understanding of Nextjs
+## summary 
 
 `Summary
 children Prop: Automatically passed to layout components by Next.js, representing nested pages or components.
