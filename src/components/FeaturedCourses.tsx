@@ -18,7 +18,7 @@ function FeaturedCourses(){
 
      )
         return(
-         <div className="h-auto py-10 w-full bg-gray-900">
+         <div className="h-auto px-3 sm:px-3 py-10 w-full bg-gray-900">
               <div className="text-center">
                     <h2 className=" text-green-400 text-xl font-bold py-3">Featured Courses</h2>
                     <h1 className="font-medium text-4xl">Join the Rhythm Revolution</h1>

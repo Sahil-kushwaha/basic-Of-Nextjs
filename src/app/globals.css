@@ -18,6 +18,7 @@
 }
 
 body {
+  
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
       to bottom,
@@ -32,4 +33,24 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 7px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: inherit;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #363434;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
 }
